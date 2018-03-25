@@ -1,7 +1,7 @@
 /*
   	ISYS 320
-  	Name(s):
-  	Date: 
+  	Name(s): Derek Rieger
+  	Date: 3/25/18
 */
 
 public class P1_Count5 {
